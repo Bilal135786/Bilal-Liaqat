@@ -1,0 +1,8 @@
+{
+  "name": "Mall Maweshi",
+  "description": "Pakistan's online cattle and livestock marketplace for cows, goats, sheep, buffaloes, poultry, and reels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

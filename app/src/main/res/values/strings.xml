@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mall Maweshi</string>
+    <string name="app_name_urdu">مال مویشی</string>
+    <string name="app_tagline">Pakistan\'s online cattle and livestock marketplace</string>
+    <string name="app_tagline_urdu">پاکستان کی آن لائن مویشی منڈی</string>
+    <string name="app_subtagline_urdu">کسانوں اور خریداروں کے لیے معیاری جانوروں کی منڈی</string>
+    <string name="loading_urdu">لوڈ ہو رہا ہے...</string>
+    <string name="eid_banner">Mall Maweshi • پاکستان کی سب سے بڑی آن لائن مویشی منڈی • خرید و فروخت باآسانی</string>
+    <string name="camera_permission_title">Camera Permission Needed</string>
+    <string name="camera_permission_title_urdu">کیمرہ اجازت درکار ہے</string>
+    <string name="camera_permission_rationale">Mall Maweshi needs camera access to take live photos of your livestock (cows, goats, sheep, buffaloes, birds, etc.) to showcase breed, teeth, and health to buyers.</string>
+    <string name="camera_permission_rationale_urdu">مال مویشی کو کیمرے کی اجازت درکار ہے تاکہ آپ اپنے مویشی کی تازہ تصاویر لے کر خریداروں کو دکھا سکیں۔</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="grant_permission_urdu">اجازت دیں</string>
+    <string name="choose_from_gallery">Choose from Gallery</string>
+    <string name="choose_from_gallery_urdu">گیلری سے تصویر منتخب کریں</string>
+    <string name="take_animal_photo">Take Animal Photo</string>
+    <string name="take_animal_photo_urdu">جانور کی تصویر بنائیں</string>
+    <string name="select_animal_photo">Select Animal Photo</string>
+    <string name="select_animal_photo_urdu">جانور کی تصویر منتخب کریں</string>
+    <string name="retake_photo">Retake Photo</string>
+    <string name="remove_photo">Remove Photo</string>
+    <string name="camera_permission_denied">Camera permission was denied. You can select an animal photo from your gallery or choose from presets.</string>
+</resources>
